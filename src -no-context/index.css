@@ -1,18 +1,10 @@
-/* :root {
+:root {
   --color-darkest: #1e1e2f;
   --color-dark: #2e3a59;
   --color-medium: #a8b0c8;
   --color-light: #eef1f7;
   --color-theme: #4fa4ff;
   --color-accent: #ff6f61;
-} */
-:root {
-  --color-darkest: #343a40;
-  --color-dark: #495057;
-  --color-medium: #ced4da;
-  --color-light: #f1f3f5;
-  --color-theme: #1098ad;
-  --color-accent: #ffa94d;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
